@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Patiparn Lakorn (Khet)</h1>
-<h3 align="center">A passionate Data, AI and Web Developer</h3>
+<h3 align="center">Interested in Data, AI and Web Developer</h3>
 
 <img align="right" alt="toothless" width="400" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Toothless-dancing-toothless.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khetpatiparn&label=Profile%20views&color=0e75b6&style=flat" alt="khetpatiparn" /> </p>
-
 
 
 - 🌱 I’m currently learning **Stat&Prob and Machine Learning.**
 
 - 📫 How to reach me **patiparn6mgup@gmail.com**
 
-- ⚡ Fun fact **Access Signature Layer Custom Softpower On The Rock Healthy**
+- ⚡ Motto **Access Signature Layer Custom Softpower On The Rock Healthy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
