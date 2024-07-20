@@ -4,7 +4,7 @@
 <img align="right" alt="toothless" width="400" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Toothless-dancing-toothless.gif">
 
 
-- 🌱 I’m currently learning **Stat&Prob and Machine Learning.**
+[comment]:< 🌱 I’m currently learning **Stat&Prob and Machine Learning.>
 
 - 📫 How to reach me **patiparn6mgup@gmail.com**
 
